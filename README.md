@@ -1,2 +1,2 @@
 # estrutura-de-dados
- codigos das aulas de estrutura de dados em c
+ codigos das aulas de estrutura de dados em c/c++
